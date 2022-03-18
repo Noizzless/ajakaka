@@ -1,0 +1,22 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : true,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6283181249358",
+	"ownerNumberr": "6283181249358",
+	"cr": "Nxxzl",
+	"ownername": "Nxxzl",
+	"botname":"Alphabot",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"fake": " 「  ALPHABOT  」\nCreated By Nxxzl"
+}
